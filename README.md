@@ -1,9 +1,11 @@
+EN-EUA
 - 👋 Hi, I’m @tharsisbarbosa
 - 👀 I’m interested in BI applications for financial decision making in the cryptocurrency market (Day Traders).
 - 🌱 I’m currently learning how to implement this system using Qlikview.
 - 💞️ I’m looking to collaborate in the development of cryptocurrency trading systems and strategies.
 - 📫 How to reach me: tharsisbarbosa@gmail.com
 
+PT-BR
 - 👋 Olá, eu sou @tharsisbarbosa
 - 👀 Eu estou interessado em aplicações de BI para o mercado financeiro de criptopmoedas (Day Traders).
 - 🌱 Estou estudando como implementar um sistema de apoio a decisão usando o Qlikview.
